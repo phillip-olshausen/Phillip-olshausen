@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**phillip-olshausen/Phillip-olshausen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+phillip-olshausen/Phillip-olshausen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Phillip 👋
+
+🎓 MSc Data Science & Quantitative Finance 
+📍 Berlin  
+📊 Data Science • Machine Learning • Statistical Learning
+
+---
+
+## What I work on
+- Machine learning & deep learning
+- Statistical learning & cross-validation
+- Music & audio ML
+- Recommendation systems
+- Automatic Music Transcription (AMT)
+
+---
+
+## Selected Projects
+🔹 CNN Image Classification (Statistical Learning)  
+🔹 Seq2Seq Music Transcription  
+🔹 Monte Carlo Simulation & Risk Modeling
+
+---
+
+## Tools & Methods
+Python • TensorFlow • PyTorch • scikit-learn  
+CNNs • Sequence Models • Cross-Validation • Evaluation
+
+---
+
+## Contact
+LinkedIn: …
+
+
+
