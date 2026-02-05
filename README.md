@@ -46,7 +46,7 @@ CNNs • Sequence Models • Cross-Validation • Evaluation
 ---
 
 ## Contact
-LinkedIn: …
+Mail: phillip.olshausen@student.htw-berlin.de
 
 
 
