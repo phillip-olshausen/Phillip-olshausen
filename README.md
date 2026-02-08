@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 ## Selected Projects
 🔹 CNN Image Classification (Statistical Learning)  
-🔹 Seq2Seq Music Transcription  
-🔹 Monte Carlo Simulation & Risk Modeling
+🔹 Automatic Music Transcription  
+🔹 MLP for Genre Classification & Recommendation
 
 ---
 
