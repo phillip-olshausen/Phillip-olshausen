@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 ---
 
 ## Tools & Methods
-Python • TensorFlow • PyTorch • scikit-learn  
-CNNs • Sequence Models • Cross-Validation • Evaluation
+Python • TensorFlow • PyTorch • scikit-learn • SQL • R    
+CNNs • Sequence Models • Cross-Validation • Evaluation • Tableau
 
 ---
 
