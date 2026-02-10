@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 🔹 Automatic Music Transcription  
 🔹 MLP for Genre Classification & Recommendation
 
-🔹 SQL Spotify Analytics
+🔹 Spotify Analytics with SQL 
 
 ---
 
