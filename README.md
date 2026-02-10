@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 🔹 CNN Image Classification (Statistical Learning)  
 🔹 Automatic Music Transcription  
 🔹 MLP for Genre Classification & Recommendation
+
 🔹 SQL Spotify Analytics
 
 ---
